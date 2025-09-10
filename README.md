@@ -31,4 +31,4 @@ This project uses the **Adult Income Dataset** from Kaggle to predict whether a 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AdultIncomePrediction.git
+git clone https://github.com/buhletreasure/AdultIncomePrediction.git
